@@ -328,7 +328,7 @@
     justify-items: center;
     align-items: center;
     gap: 0px;
-    padding-top: 70px;
+    padding-top: 20px;
   }
   .img-picked:last-child {
     order: 2;
